@@ -1,0 +1,12 @@
+# pip install -r requirements.txt
+
+torch
+torchvision
+transformers
+scikit-learn
+numpy
+alive-progress
+openai==0.28
+pandas
+sentence-transformers
+streamlit
