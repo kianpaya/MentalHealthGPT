@@ -1,10 +1,14 @@
 # MentalHealthGPT
 
-![Legacy App](https://github.com/kianpaya/MentalHealthGPT/blob/9ff53265a986d21ac1eef3b627442a551a31eb6b/Images/Legacy%20App.jpg)
-
 ## Overview
 
 **MentalHealthGPT** is an AI-driven application designed to support mental health counselors by analyzing the tone, or “vibe,” of client conversations. This project integrates advanced NLP models to classify emotional tones, with the goal of providing counselors with insights into their client’s emotional state. It uses:
+
+<p align="center">
+  <img src="https://github.com/kianpaya/MentalHealthGPT/blob/9ff53265a986d21ac1eef3b627442a551a31eb6b/Images/Legacy%20App.jpg" alt="MentalHealthGPT Interface">
+</p>
+
+<p align="center"><i>Interactive interface of the MentalHealthGPT app, designed to analyze conversation tone.</i></p>
 
 - **BERT Model** for machine learning classification, detecting the tone of text input to identify emotional categories.
 - **GPT-based Fine-Tuning** using OpenAI’s API to enhance BERT model predictions, resulting in more accurate and contextual responses.
