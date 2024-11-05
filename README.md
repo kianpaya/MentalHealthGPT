@@ -125,7 +125,7 @@ streamlit run app.py
 
 ---
 
-## Fine-Tuning (Future Plans)
+## Future Plans
 
 Currently, the model uses GPT-4 Turbo without fine-tuning. In future iterations:
 - **Fine-Tuning with OpenAI API**: Train on custom datasets to improve accuracy and relevance of responses.
@@ -171,11 +171,9 @@ Contributions to MentalHealthGPT are welcome! Whether it’s improving response 
 For any questions or suggestions, feel free to reach out.
 
 ---
+ ## License
 
-## License
-
-This project is licensed under the MIT License.
-
+ - This project is licensed under the [MIT License](https://github.com/kianpaya/MentalHealthGPT/blob/main/LICENSE).
 ---
 
 ## Contact
