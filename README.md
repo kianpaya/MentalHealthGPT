@@ -107,7 +107,6 @@ streamlit run app.py
 ## Model Details
 
 ### egpt Model
-- **Dataset**: Uses the [mental_health_counseling_conversations](https://huggingface.co/datasets/Amod/mental_health_counseling_conversations) dataset.
 - **Embedding Model**: `all-MiniLM-L6-v2` for encoding and similarity matching in the knowledge base.
 - **API**: Relies on OpenAI's GPT-4 API for generating responses, enhancing interaction with contextual accuracy.
 
@@ -190,5 +189,3 @@ This project is licensed under the MIT License.
 
 **MentalHealthGPT** combines AI-driven tone analysis with responsive, context-aware text generation to empower counselors with better communication tools. By leveraging both classification and fine-tuning, it supports mental health professionals in creating empathetic and effective interactions, making it a valuable tool for counseling environments. Hosted on Hugging Face Spaces, it provides an accessible platform for professionals seeking AI-enhanced support in their daily interactions.
 ```
-
-This should display exactly as markdown code without rendering it. Let me know if further adjustments are needed!
