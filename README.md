@@ -1,5 +1,4 @@
 # MentalHealthGPT
-test
 ## Overview
 
 **MentalHealthGPT** is an AI-powered application developed to assist mental health counselors by analyzing the tone of client conversations and generating responses that are sensitive to the emotional context. Combining advanced NLP models, including BERT for tone classification and GPT for response refinement, MentalHealthGPT aims to support mental health professionals in fostering empathetic and productive interactions with clients.
