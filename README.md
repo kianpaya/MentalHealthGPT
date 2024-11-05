@@ -188,4 +188,3 @@ This project is licensed under the MIT License.
 ## Conclusion
 
 **MentalHealthGPT** combines AI-driven tone analysis with responsive, context-aware text generation to empower counselors with better communication tools. By leveraging both classification and fine-tuning, it supports mental health professionals in creating empathetic and effective interactions, making it a valuable tool for counseling environments. Hosted on Hugging Face Spaces, it provides an accessible platform for professionals seeking AI-enhanced support in their daily interactions.
-```
