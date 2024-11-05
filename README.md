@@ -179,7 +179,7 @@ For any questions or suggestions, feel free to reach out.
 ## Contact
 
 - **Kian Paya** - [GitHub](https://github.com/kianpaya), [LinkedIn](https://www.linkedin.com/in/kianpaya/)
-- **Demo & Feedback**: Try the app and provide feedback for improvements!
+- **Feedback**: Feel free to try the app and provide feedback for improvements!
 
 ---
 
